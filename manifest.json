@@ -2,19 +2,11 @@
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
   "start_url": "https://dumidusumanasekara.github.io/INFO6128-LAB01/",
+  "scope":"https://dumidusumanasekara.github.io/INFO6128-LAB01/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#000",
-  "share_target": {
-    "action": "/https://dumidusumanasekara.github.io/INFO6128-LAB01/",
-    "method": "GET",
-    "params": {
-      "title": "title",
-      "text": "text",
-      "url": "url"
-    }
-  },
   "icons": [
     {
       "src": "assets/images/icon.png",
@@ -47,5 +39,14 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "share_target": {
+    "action": "/https://dumidusumanasekara.github.io/INFO6128-LAB01/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
 }
