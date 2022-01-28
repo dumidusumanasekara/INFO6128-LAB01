@@ -2,7 +2,6 @@
   "name": "Share target pwa",
   "short_name": "shareTarget",
   "start_url": "https://dumidusumanasekara.github.io/INFO6128-LAB01/",
-  "scope":"https://dumidusumanasekara.github.io/INFO6128-LAB01/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
