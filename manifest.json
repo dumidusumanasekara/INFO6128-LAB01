@@ -41,7 +41,7 @@
     }
   ],
   "share_target": {
-    "action": "https://dumidusumanasekara.github.io/INFO6128-LAB01/myAction/",
+    "action": "https://dumidusumanasekara.github.io/INFO6128-LAB01/",
     "method": "GET",
     "params": {
       "title": "title",
